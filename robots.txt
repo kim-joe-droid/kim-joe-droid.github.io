@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kimhyeonjoong.github.io/al-folio/sitemap.xml
+Sitemap: https://kim-joe-droid.github.io/al-folio/sitemap.xml
